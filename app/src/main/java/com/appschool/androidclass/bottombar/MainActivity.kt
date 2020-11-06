@@ -27,7 +27,8 @@ class MainActivity : AppCompatActivity() {
         navView.setupWithNavController(navController)
         Log.i("check", "M onCreate")
         Log.i("ABC", "M onCreate")
-        
+        Log.i("OrderList", "M onCreate")
+
     }
 
     override fun onStart() {
