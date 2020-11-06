@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("check", "M onCreate")
         Log.i("ABC", "M onCreate")
         Log.i("OrderList", "M onCreate")
+        Log.i("AAA", "M onCreate")
 
     }
 
