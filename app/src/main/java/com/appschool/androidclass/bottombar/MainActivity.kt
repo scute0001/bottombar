@@ -28,13 +28,14 @@ class MainActivity : AppCompatActivity() {
         Log.i("check", "M onCreate")
         Log.i("ABC", "M onCreate")
         Log.i("OrderList", "M onCreate")
+        Log.i("AAA", "M onCreate")
 
     }
 
     override fun onStart() {
         super.onStart()
         Log.i("check", "M onStart")
-        Log.i("emil", "M onStart")
+        Log.i("emi", "M onStart")
     }
 
 
