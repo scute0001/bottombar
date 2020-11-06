@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         Log.i("check", "M onStart")
+        Log.i("emil", "M onStart")
     }
 
 
