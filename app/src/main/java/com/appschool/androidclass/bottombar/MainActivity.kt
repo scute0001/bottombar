@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         Log.i("check", "M onResume")
+        Log.i("emil3", "M onResume")
     }
 
     override fun onStop() {
