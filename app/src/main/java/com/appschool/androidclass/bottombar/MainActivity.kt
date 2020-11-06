@@ -49,7 +49,10 @@ class MainActivity : AppCompatActivity() {
     override fun onStop() {
         super.onStop()
         Log.i("check", "M onStop")
+        Log.i("check", "M onStop")
     }
+
+
 
     override fun onPause() {
         super.onPause()
