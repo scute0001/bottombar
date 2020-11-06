@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
         Log.i("check", "M onCreate")
+        Log.i("ABC", "M onCreate")
         
     }
 
